@@ -1,10 +1,30 @@
 ## MMM-FastNotes
 Module for [MagicMirror](https://github.com/MichMich/MagicMirror). Can be used for adding notes on MagicMirror using fast and easy web interface
 
+<details><summary><h3>Watch demonstration (click to expand)</h3></summary>
 
-<summary><h3>Watch demonstration (click to expand)</h3></summary>
+#### Magic Mirror screen
+Little speed up for screenrecord
 <details>
+<p>
+    <img src="/preview/preview.gif" width="768" height="1360" />
+</p>
 </details>
+
+#### Web GUI powered by this module
+<details>
+<p>
+    <img src="/preview/web_gui_1.jpg" width="295" height="640" />
+    <img src="/preview/web_gui_2.jpg" width="295" height="640" />
+    <img src="/preview/web_gui_3.jpg" width="295" height="640" />
+    <img src="/preview/web_gui_4.jpg" width="295" height="640" />
+</p>
+
+"Notes" in browser`s addres link is just DNS name for raspberry in my home network. Actualy it is something like 192.168.1.1
+
+</details>
+</details>
+
 
 ### How to use
 * Clone this module repo
