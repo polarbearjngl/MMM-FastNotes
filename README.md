@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## MMM-FastNotes
 Module for [MagicMirror](https://github.com/MichMich/MagicMirror). Can be used for adding notes on MagicMirror using fast and easy web interface
 
@@ -64,7 +63,3 @@ config: {
   }
 },
 ```
-
-=======
-# MMM-FastNotes
->>>>>>> 071379124fa4ecb6794ff9750f94427e73e96dcc
