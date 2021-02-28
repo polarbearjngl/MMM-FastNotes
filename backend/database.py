@@ -4,7 +4,7 @@ import pathlib
 
 
 class Database:
-    DATABASE = 'database.db'
+    DATABASE = f'{pathlib.Path(__file__).parent.absolute()}{os.sep}database.db'
     SCHEMA = f'{pathlib.Path(__file__).parent.absolute()}{os.sep}schema.sql'
 
     def __init__(self):
