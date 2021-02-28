@@ -4,7 +4,6 @@ Module for [MagicMirror](https://github.com/MichMich/MagicMirror). Can be used f
 
 <summary><h3>Watch demonstration (click to expand)</h3></summary>
 <details>
-![Alt Text](preview.gif)
 </details>
 
 ### How to use
