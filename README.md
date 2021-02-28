@@ -50,7 +50,7 @@ Clone this module repository:
 git clone https://github.com/polarbearjngl/MMM-FastNotes.git
 ```
 
-Navigate to the new MMM-KudaGo folder and install the npm **python-shell** dependency
+Navigate to the new MMM-FastNotes folder and install the npm **python-shell** dependency
 ```markdown
 npm install python-shell
 npm install sqlite3
